@@ -8,5 +8,8 @@ EVE Starweb is a tool web designed to assist pilots navigating New Eden in EVE O
 
 This repository serves to track issues and gather feature requests for [EVE Starweb](https://eve.starweb.cc).
 
+## Notice
+EVE Online and the EVE logo are the registered trademarks of CCP hf. All rights are reserved worldwide. All other trademarks are the property of their respective owners. EVE Online, the EVE logo, EVE and all associated logos and designs are the intellectual property of CCP hf. All artwork, screenshots, characters, vehicles, storylines, world facts or other recognizable features of the intellectual property relating to these trademarks are likewise the intellectual property of CCP hf.
+
 ## Help Translation
 Language files can be found [here](https://github.com/jackdaw3/eve-starweb/tree/main/src/i18n/lang). Feel free to contribute translations in your preferred language!

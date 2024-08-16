@@ -1,0 +1,50 @@
+body {
+  background-color: #202124;
+  --el-border-color:  #4C4D4F;
+  --el-bg-color: #202124;
+  --el-bg-color-overlay: #202124;
+  --el-fill-color-blank: #202124;
+  --el-border: var(--el-border-width) var(--el-border-style) var(--el-border-color);
+}
+.el-input{
+  caret-color: white !important;
+  --el-input-placeholder-color: rgb(210, 210, 210) !important;
+}
+.el-table {
+  --el-table-text-color: #cfd3dc;
+  --el-table-header-text-color: #CDD0D1;
+  --el-table-border-color: rgb(75, 75, 75);
+  --el-table-current-row-bg-color: rgba(13, 69, 121, 0.3);
+  --el-table-row-hover-bg-color: #2A2B2B;
+  .el-table__body tr.current-row:hover > td {
+    background-color: rgba(13, 69, 121, 0.3) !important;
+  }
+}
+.el-table .cell {
+  line-height: 27px;
+}
+.el-table .warning-row {
+  background: #251b07 !important;
+}
+.el-table .warning-row:hover > td {
+  background: #251b07 !important;
+}
+.el-table thead.is-group th.el-table__cell {
+  background: #202124;
+}
+.el-table__footer-wrapper tfoot td.el-table__cell {
+  background: #202124;
+}
+.el-loading-mask {
+  background-color: rgb(32, 33, 36, 0.8);
+}
+.el-cascader-panel {
+  --el-cascader-node-background-hover: #2A2B2B;
+}
+.el-transfer {
+  --el-transfer-panel-header-bg-color: #202124;
+}
+.el-table-v2{
+  --el-table-row-hover-bg-color: #2A2B2B;
+}
+

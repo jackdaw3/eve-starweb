@@ -1,0 +1,16 @@
+.vite-ssg-temp
+
+node_modules
+.DS_Store
+dist
+dist-ssr
+dist.zip
+*.local
+serenity
+
+# lock
+yarn.lock
+package-lock.json
+pnpm-lock.yaml
+
+*.log

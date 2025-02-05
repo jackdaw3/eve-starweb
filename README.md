@@ -4,6 +4,6 @@ EVE Starweb是一款工具网页，旨在协助EVE Online的舰长探索新伊�
 此仓库用于收集[EVE Starweb](https://eve.starweb.cc)的用户反馈。
 
 ## Introduction
-EVE Starweb is a tool web designed to assist pilots navigating New Eden in EVE Online, offering support for [market](https://eve.starweb.cc/market), [loyalty point store](https://eve.starweb.cc/lpstore), and [appraisal](https://eve.starweb.cc/appraisal) features, available in multiple languages.
+EVE Starweb is a tool web designed to assist pilots navigating New Eden in EVE Online, offering support for [market](https://eve.starweb.cc/market), [lp store](https://eve.starweb.cc/lpstore), and [appraisal](https://eve.starweb.cc/appraisal) features, available in multiple languages.
 
 This repository serves to track issues and gather feature requests for [EVE Starweb](https://eve.starweb.cc).
